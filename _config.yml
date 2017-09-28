@@ -21,13 +21,13 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://kpgarrod.***.***" # the base hostname & protocol for your site
+url: "http://kpgarrod.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@kpgarrod'
 
 #fill in disqus shortname to use disqus
-#disqus: disqus-shortname
+disqus: kpgarrod
 
 #google_analytics: UA-XXXXX-X
 
