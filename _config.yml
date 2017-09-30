@@ -4,12 +4,12 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Resource-based Currency"
+title: "Appz Limited"
 description: > # this means to ignore newlines until "email:"
-   Solving the world's problems with blockchain technology
-email: kpgarrod@gmail.com
+   We build business applications quickly  
+email: keith@appzco.uk
 #blog logo
-logo: "https://dummyimage.com/200x200/000/fff.png&text=KG"
+logo: "https://dummyimage.com/200x200/000/fff.png&text=A"
 float_logo: true # true, false (default)
 
 # blog cover
@@ -21,7 +21,7 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://kpgarrod.github.io" # the base hostname & protocol for your site
+url: "http://appzco.uk" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@kpgarrod'
