@@ -4,7 +4,7 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Share it freely - but don't take a slice of my pie!"
+title: "Share it fairly - but don't take a slice of my pie!"
 description: > # this means to ignore newlines until "email:"
    We build business applications quickly  
 email: keith@appzco.uk
