@@ -9,7 +9,7 @@ description: > # this means to ignore newlines until "email:"
    We build business applications quickly  
 email: keith@appzco.uk
 #blog logo
-logo: "https://dummyimage.com/200x200/000/fff.png&text=A"
+logo: "https://dummyimage.com/200x200/000/fff.png&text=$"
 float_logo: true # true, false (default)
 
 # blog cover
@@ -21,7 +21,7 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://appzco.uk" # the base hostname & protocol for your site
+url: "http://shareitfairly.org" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@kpgarrod'
