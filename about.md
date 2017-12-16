@@ -4,14 +4,10 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+Technology is developing at an ever-increasing rate. It has the power to make our lives easier and more comfortable. 
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+It is also becoming more and more accessible to ordinary people.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+It can change lives for the better but it can also be used by powerful organizations and individuals to further their own cause with scant regard for the rest of us.  
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+This blog is the face of the [shareitfairly Github page](https://github.com/shareitfairly). It is a collection of projects aimed at using modern technology, particularly blockchain and Artificial Intelligence for the benefit of all mankind, both current and future generations. 
