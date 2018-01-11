@@ -2,7 +2,7 @@
 layout: post
 title:  "The real value of Bitcoin"
 date:   2018-01-11 00:00:00
-categories: bitcoin blockchain feature
+categories: bitcoin blockchain utopia dystopia feature
 tags: featured
 ---
 
@@ -20,7 +20,7 @@ blockchain, cryptocurrencies and smart contracts.
 Blockchain is not the only thing about Bitcoin that matters though. 
 Henry Ford is often quoted as saying: “It is well enough that people of the nation do not understand our banking and monetary system, for if they did, I believe there would be a revolution before tomorrow morning“. 
 Well yes Henry, if we understood and could see a viable alternative then there certainly should be a revolution! 
-While I have been aware of [the scam](https://www.youtube.com/watch?v=23DNe0cJhcU) that is being perpetrated by banks and governments for some time, 
+While I have been aware for some time of [the scam](https://www.youtube.com/watch?v=23DNe0cJhcU) that is being perpetrated by banks and governments, 
 I’ve only recently come to believe that there is an alternative - cryptocurrency. 
 Whether it turns out to be Bitcoin itself or some other variation, Bitcoin has certainly paved the way for a return to a form of global money that doesn’t just evaporate in front of our eyes.
 
